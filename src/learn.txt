@@ -1,0 +1,7 @@
+1. All raylib functions -- IMP
+2. Game loop : Event Handling -> updating positions -> drawing objects
+3. oops
+4. header and implementation files
+5. #pragma once
+6. extern keyword
+7. sprintf
